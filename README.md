@@ -24,4 +24,4 @@ Thoughts
 Todo
 6. Footer  
       
-          
+ChatGpt:  https://chatgpt.com/share/8f391f31-9a09-4393-bafc-16d80198b5c4          
